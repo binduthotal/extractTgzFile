@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    text-align: center;
+    margin-top: 10%;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
